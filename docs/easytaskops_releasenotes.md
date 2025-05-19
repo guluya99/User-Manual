@@ -1,0 +1,3 @@
+- [更新合辑（2025年）](easytaskops_releasenotes_2025.md)
+- [更新合辑（2024年）](easytaskops_releasenotes_2024.md)
+- [更新合辑（2023年）](easytaskops_releasenotes_2023.md)
